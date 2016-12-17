@@ -2,6 +2,9 @@
 created by Qingxue(Subi) ZHang
 
 
+[![Build Status](https://travis-ci.org/subizhangg/commonstat-package.svg?branch=master)](https://travis-ci.org/subizhangg/commonstat-package)
+
+
 ### To install package:
 ```
 pip install git+https://github.com/subizhangg/commonstat-package.git
