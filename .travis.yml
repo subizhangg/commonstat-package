@@ -1,11 +1,9 @@
 language: python
 python:
-  - "3.3"
-  - "3.4"
   - "3.5"
 # command to install dependencies
 install:
   - pip install pip install git+https://github.com/subizhangg/commonstat-package.git
   - pip install -U pytest
 # command to run tests
-script: pytest
+script: py.test
