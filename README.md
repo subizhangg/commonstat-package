@@ -4,7 +4,7 @@ created by Qingxue(Subi) ZHang
 
 ### To install package:
 ```
-pip install git+ https://github.com/subizhangg/commonstat-package.git
+pip install git+https://github.com/subizhangg/commonstat-package.git
 ```
 
 ### Example of usage in Python:
