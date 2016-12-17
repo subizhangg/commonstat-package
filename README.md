@@ -1,8 +1,8 @@
 ###  commonstat-package
-created by Qingxue(Subi) ZHang
-
 
 [![Build Status](https://travis-ci.org/subizhangg/commonstat-package.svg?branch=master)](https://travis-ci.org/subizhangg/commonstat-package)
+
+created by Qingxue(Subi) ZHang
 
 
 ### To install package:
