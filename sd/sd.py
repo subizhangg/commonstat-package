@@ -1,5 +1,5 @@
 # aim: calculate the standard deviation of a bunch of values
-# input: a bunch of values,a list  
+# input: a bunch of values,a list
 # output: the standard deviation of these values, numerical
 
 def standard_deviation(x):

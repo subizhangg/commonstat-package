@@ -1,1 +1,3 @@
-{}
+{
+  "sd/tests/test_sd.py::test_standard_deviation": true
+}
