@@ -4,7 +4,6 @@
 
 created by Qingxue(Subi) ZHang
 
-
 ### To install package:
 ```
 pip install git+https://github.com/subizhangg/commonstat-package.git
